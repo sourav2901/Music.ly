@@ -46,6 +46,12 @@ let allMusic = [
     img: "music-6",
     src: "music-6"
   },
+  {
+    name: "Wishlist - Dino James",
+    artist: "Dino james ft. Kaprila",
+    img: "music-7",
+    src: "music-7"
+  },
   // Example:
   // {
   //   name: "Here is the music name",
